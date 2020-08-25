@@ -1,9 +1,10 @@
 <h1 align="center">Hello there 👋🏿</h1>
 
-<p>I am people-focused Software Developer, who enjoys producing clean, test-driven code in a collaborative environment. I recently graduated from Makers Academy Bootcamp in London where I quickly learnt engineering best practices, tools and methodologies. I also have a Chemical Engineering BEng from the University of Birimingham with a background in Recruitment and E-commerce.</p>
-
-<p>Fun fact: I had the opportunity to jump in and swim with a pod of wild dolphins at sea...I got scared and stayed on the boat  🚣🏿‍♀️</p>
-
-<p align="center">He/Him</p>
+Hi there, I'm Ola and welcome to my page! 👋🏿
+- 📖 Just Graduated from a 16 week intensive bootcamp with Makers Academy.  
+- 💻 I'm currently looking for a job as a full stack developer
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2020 Goals: Find my first job as a developer and learn something new each day!
+- ⚡ Fun fact: I have swam with a pod of wild dolphins 
 
 
