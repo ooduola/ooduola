@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ola and welcome to my page!  👋🏿</h1>
+Hi there, I'm Ola and welcome to my page!  👋🏿
 
 - 📖 Just Graduated from a 16 week intensive bootcamp with Makers Academy.  
 - 💻 I'm currently looking for a job as a full stack developer
